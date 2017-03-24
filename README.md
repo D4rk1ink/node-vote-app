@@ -1,6 +1,6 @@
 # node-vote-app
 
-<b>Install
+<b>Create and start containers
 
 ```
 docker-compose up
