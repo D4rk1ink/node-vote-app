@@ -16,5 +16,3 @@ http://192.168.99.100:3000/
 docker pull darklink/node-vote-app
 ```
 
-Passakorn Rattanaprapan
-5730213067 SE
